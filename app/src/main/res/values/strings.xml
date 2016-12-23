@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">"Cek Resi "</string>
+    <string name="ekspedisi_name">Nama Ekspedisi</string>
+    <string name="no_resi">No Resi</string>
+    <string name="jne">JNE</string>
+    <string name="pos">POS</string>
+    <string name="jnt">JNT</string>
+    <string name="tiki">TIKI</string>
+    <string name="sicepat">SICEPAT</string>
+</resources>
